@@ -31,6 +31,7 @@ getgenv().petsGoConfig = {
 
     MIN_MAIL_AMOUNT = {  -- Rare items not listed, default min 1
       -- General
+      PICKAXE_LOOT_IV = 1,
       INSTA_POTION_IV = 100,
       CORRUPTED_HUGE_BAIT = 50,
       CRYSTAL_KEY = 25, CRYSTAL_KEY_UPPER_HALF = 100, CRYSTAL_KEY_LOWER_HALF = 100,
