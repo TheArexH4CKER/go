@@ -1,6 +1,6 @@
 setfpscap(4)
 task.wait(2)
-script_key="FdhwIvkOLXAFPprtMaHNhatPJBEFWfwI";
+script_key="shvAcqEkSIQCvTLXEsXXRHTIAQxNTPJx";
 
 getgenv().petsGoConfig = {
     AUTO_RESTART = true,
