@@ -3,7 +3,7 @@ task.wait(2)
 script_key="shvAcqEkSIQCvTLXEsXXRHTIAQxNTPJx";
 
 getgenv().petsGoConfig = {
-    AUTO_RESTART = true,
+    AUTO_RESTART = false,
     -- true/false (true = consume, false = automail)
     CONSUME_CORRUPTED_HUGE_BAIT = true,
     CONSUME_ALL_ENCHANT_SAFE = true,
