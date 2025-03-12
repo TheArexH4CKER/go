@@ -32,6 +32,7 @@ getgenv().petsGoConfig = {
     MAIL_FISHING_ROD = false,  -- true = mail, false = keep fishing rod on account (FASTER Fishing)
     MAIL_PICKAXE = false, -- true = mail (smart mail [keep best pickaxe, mail excess])
     MAIL_GEMS_MIN = 1,  -- Minimum Gems to mail out
+    MASTERY_CAPE = "Master Skill",  -- Rolling, Breakables, Fishing, Mining, Thieving, Master Skill
 
     USERNAME_TO_MAIL = {"TheArex2006"}, -- Mail to username, Example : USERNAME_TO_MAIL = {"username1", "username2"} 
 }
